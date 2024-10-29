@@ -1,7 +1,7 @@
 // app.js
 const express = require('express');
 const admin = require('firebase-admin');
-const serviceAccount = require('./serviceAccountKey.json.json');
+const serviceAccount = require('./serviceAccountKey.json');
 
 //Initialize firebase admin SDK
 admin.initializeApp({
