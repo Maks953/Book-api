@@ -1,2 +1,2 @@
 # Book API
-This is my GitHub project for managing a collection of books. This project is a RESTful API developed using Node.js, Express and Firebase Firestore. This project allows users to preform CRUD (create, read, update, delete) operations on book entries in a database. The project is fully written in JavaScript.
+To jest mój projekt na GitHubie do zarządzania kolekcją książek. Ten projekt to RESTful API stworzone przy użyciu Node.js, Express oraz Firebase Firestore. Projekt umożliwia użytkownikom wykonywanie operacji CRUD (tworzenie, odczyt, aktualizacja, usuwanie) na wpisach książek w bazie danych. Projekt jest w całości napisany w języku JavaScript.
